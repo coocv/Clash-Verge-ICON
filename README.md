@@ -1,6 +1,8 @@
 # Clash-Verge-ICON
 Clash Verge 客户端图标更换
+
 这里我换成开发者同款
+
 ![image](https://github.com/user-attachments/assets/e505ced9-651d-4d5a-b1e2-5b566c888c3a)
 
 ![image](https://github.com/user-attachments/assets/896eb589-084c-472c-80ca-bfab099483ca)
@@ -60,6 +62,10 @@ Clash Verge 客户端图标更换
 ## 6.自定义Clash-Verge桌面图标/任务栏图标
 1.右键桌面图标>属性>快捷方式>更改图标>浏览
 ![image](https://github.com/user-attachments/assets/21b66526-96db-4561-9f9f-6444632b5fad)
+
 2.>选择电脑本地图标，==必须为ico格式==
+
 3.>选中后打开>确定>应用即可
+
 4.任务栏图标刷新需要退出重启Clash-Verge
+![image](https://github.com/user-attachments/assets/27a9397f-234d-4050-910b-2b966f0837a2)
