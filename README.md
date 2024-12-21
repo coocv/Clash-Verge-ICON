@@ -1,6 +1,8 @@
 # Clash-Verge-ICON
 Clash Verge 客户端图标更换
 这里我换成开发者同款
+![image](https://github.com/user-attachments/assets/e505ced9-651d-4d5a-b1e2-5b566c888c3a)
+
 ![image](https://github.com/user-attachments/assets/896eb589-084c-472c-80ca-bfab099483ca)
 
 
@@ -33,7 +35,7 @@ Clash Verge 客户端图标更换
   left: 5px;
   bottom: 8px;
   background-image: url('https://clashverge.net/wp-content/uploads/2023/11/cropped-logo.png');
-   /* 把链接更换为自定义图片 */
+  /* 把链接更换为自定义图片 */
   background-size: contain;
   /* 保持比例 */
   background-repeat: no-repeat;
@@ -51,5 +53,14 @@ Clash Verge 客户端图标更换
 
 ## 4.查看效果
 ![image](https://github.com/user-attachments/assets/31681c67-3fb1-4507-b12b-45bf24348989)
+
+## 5.自定义托盘图标
+官方教程：https://tangwenlongno1.github.io/clash-verge-rev.github.io/guide/tray_icon.html
+
+## 6.自定义桌面图标
+1.右键桌面图标>属性>快捷方式>更改图标>浏览
+2.>选择电脑本地图标，==必须为ico格式==
+3.>选中后打开>确定>应用即可
+![image](https://github.com/user-attachments/assets/21b66526-96db-4561-9f9f-6444632b5fad)
 
 
